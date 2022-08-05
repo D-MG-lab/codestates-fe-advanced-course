@@ -1,6 +1,10 @@
 # codestates-fe-advanced-course
 
 - 완성된 GIF 파일 및 배포 링크
+http://mg-codestates-fe-advanced-course.s3-website.ap-northeast-2.amazonaws.com/
+![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/74203440/183103620-3ebe7053-10c7-4b61-99df-6c998e468f1a.gif)
+
+
 - 프로젝트 실행 방법
 - 사용한 스택 목록
 - 구현한 기능 목록 (Software Requirement Specification)
