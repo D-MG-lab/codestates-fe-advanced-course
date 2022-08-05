@@ -11,10 +11,10 @@ http://mg-codestates-fe-advanced-course.s3-website.ap-northeast-2.amazonaws.com/
 4. 추가 구현 가능한 부분 구현
 
 - 사용한 스택 목록
-[JavaScript]
-[React]
-[axios]
-[Styled-component]
+# JavaScript
+# React
+# axios
+# Styled-component
 
 - 구현한 기능 목록 (Software Requirement Specification)
 
